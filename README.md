@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://twitter.com/quitesaiyan" target="_blank"><img src="https://img.shields.io/twitter/follow/quitesaiyan?logo=twitter&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/shivamjaiswal1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://instagram.com/_thatshivam" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://instagram.com/zazwall" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" /></a>
   <a href="https://www.leetcode.com/stl4gy7j7f" target="_blank"><img src="https://img.shields.io/badge/Leetcode-Profile-orange?style=for-the-badge&logo=leetcode" /></a>
 </p>
 

@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shivam Jaiswal</h1>
-<h3 align="center">A passionate full-stack developer and lifelong learner from India 🚀</h3>
+<h1 align="center">Hi , I'm Shivam Jaiswal</h1>
+<h3 align="center">Learning Everyday</h3>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXplZ3JicW5ydjd4b21nNDFidWVoemMxMXd3cmtpamFneG11ZzMycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="250" alt="coding gif" />
